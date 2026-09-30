@@ -1,13 +1,13 @@
 # DigitalSkills_Lab3_4957510093
 * Thông tin cá nhân 
-Họ và tên: LÊ HOÀNG LINH
-MSSV: 4957510093
-Lớp: Ngôn Ngữ Anh K49B
-Chuyên ngành: Ngôn Ngữ Anh 
+  - Họ và tên: LÊ HOÀNG LINH
+  - MSSV: 4957510093
+  - Lớp: Ngôn Ngữ Anh K49B
+  - Chuyên ngành: Ngôn Ngữ Anh 
 * Tiêu đề chủ đề nghiên cứu/học liệu 
-Ứng dụng AI trong học từ vựng và ngữ pháp
+  - Ứng dụng AI trong học từ vựng và ngữ pháp
 * Danh sách tài liệu trích dẫn 
-Dưới đây là danh sách tài liệu trích dẫn của 3 tài liệu học thuật vừa tìm được:
+  - Dưới đây là danh sách tài liệu trích dẫn của 3 tài liệu học thuật vừa tìm được:
 1.  PHÁT TRIỂN DẠY VÀ HỌC TỪ VỰNG TIẾNG ANH 
 THÔNG QUA TRÍ TUỆ NHÂN TẠO (AI) CHO SINH VIÊN 
 HỆ ĐẠI HỌC KHÔNG CHUYÊN
